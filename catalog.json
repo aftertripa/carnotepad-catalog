@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "brands": [
+    {"id": 1, "name": "Toyota"},
+    {"id": 2, "name": "BMW"},
+    {"id": 3, "name": "Lada"},
+    {"id": 4, "name": "Hyundai"},
+    {"id": 5, "name": "Kia"}
+  ],
+  "models": [
+    {"id": 101, "brand_id": 1, "name": "Camry"},
+    {"id": 102, "brand_id": 1, "name": "RAV4"},
+    {"id": 201, "brand_id": 2, "name": "X5"},
+    {"id": 301, "brand_id": 3, "name": "Vesta"},
+    {"id": 401, "brand_id": 4, "name": "Solaris"},
+    {"id": 501, "brand_id": 5, "name": "Rio"}
+  ]
+}
