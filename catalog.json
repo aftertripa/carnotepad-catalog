@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "brands": [
     {"id": 1, "name": "Toyota"},
     {"id": 2, "name": "BMW"},
@@ -34,12 +34,10 @@
     {"id": 31, "name": "Omoda"},
     {"id": 32, "name": "Tank"},
     {"id": 33, "name": "Changan"},
-    {"id": 34, "name": "Subaru"},
-    {"id": 35, "name": "Lexus"},
-    {"id": 36, "name": "Infiniti"},
-    {"id": 37, "name": "Cadillac"},
-    {"id": 38, "name": "Dodge"},
-    {"id": 39, "name": "Jaguar"}
+    {"id": 34, "name": "Infiniti"},
+    {"id": 35, "name": "Cadillac"},
+    {"id": 36, "name": "Dodge"},
+    {"id": 37, "name": "Jaguar"}
   ],
   "models": [
     {"id": 101, "brand_id": 1, "name": "Camry"},
@@ -198,21 +196,21 @@
     {"id": 3304, "brand_id": 33, "name": "UNI-K"},
     {"id": 3305, "brand_id": 33, "name": "UNI-V"},
     {"id": 3306, "brand_id": 33, "name": "UNI-T"},
-    {"id": 3601, "brand_id": 36, "name": "QX50"},
-    {"id": 3602, "brand_id": 36, "name": "QX55"},
-    {"id": 3603, "brand_id": 36, "name": "QX80"},
-    {"id": 3604, "brand_id": 36, "name": "Q50"},
-    {"id": 3701, "brand_id": 37, "name": "Escalade"},
-    {"id": 3702, "brand_id": 37, "name": "XT5"},
-    {"id": 3703, "brand_id": 37, "name": "XT6"},
-    {"id": 3801, "brand_id": 38, "name": "Challenger"},
-    {"id": 3802, "brand_id": 38, "name": "Charger"},
-    {"id": 3803, "brand_id": 38, "name": "Durango"},
-    {"id": 3804, "brand_id": 38, "name": "RAM 1500"},
-    {"id": 3901, "brand_id": 39, "name": "F-Pace"},
-    {"id": 3902, "brand_id": 39, "name": "E-Pace"},
-    {"id": 3903, "brand_id": 39, "name": "I-Pace"},
-    {"id": 3904, "brand_id": 39, "name": "XF"},
-    {"id": 3905, "brand_id": 39, "name": "F-Type"}
+    {"id": 3401, "brand_id": 34, "name": "QX50"},
+    {"id": 3402, "brand_id": 34, "name": "QX55"},
+    {"id": 3403, "brand_id": 34, "name": "QX80"},
+    {"id": 3404, "brand_id": 34, "name": "Q50"},
+    {"id": 3501, "brand_id": 35, "name": "Escalade"},
+    {"id": 3502, "brand_id": 35, "name": "XT5"},
+    {"id": 3503, "brand_id": 35, "name": "XT6"},
+    {"id": 3601, "brand_id": 36, "name": "Challenger"},
+    {"id": 3602, "brand_id": 36, "name": "Charger"},
+    {"id": 3603, "brand_id": 36, "name": "Durango"},
+    {"id": 3604, "brand_id": 36, "name": "RAM 1500"},
+    {"id": 3701, "brand_id": 37, "name": "F-Pace"},
+    {"id": 3702, "brand_id": 37, "name": "E-Pace"},
+    {"id": 3703, "brand_id": 37, "name": "I-Pace"},
+    {"id": 3704, "brand_id": 37, "name": "XF"},
+    {"id": 3705, "brand_id": 37, "name": "F-Type"}
   ]
 }
